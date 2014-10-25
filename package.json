@@ -1,0 +1,15 @@
+{
+  "name": "commit-check",
+  "version": "0.0.0",
+  "description": "Validate the git commit title.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "wordpos": "^0.1.15",
+    "nlp_compromise": "^0.1.4"
+  }
+}
