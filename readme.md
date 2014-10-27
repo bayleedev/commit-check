@@ -8,7 +8,7 @@
 ## Setup a git hook
 ~~~
 git clone git@github.com:blainesch/commit-check.git ~/commit
-cp ~/commit/.commit-msg .git/hooks/
+cp ~/commit/.commit-msg .git/hooks/commit-msg
 ~~~
 
 ## Run Tests
