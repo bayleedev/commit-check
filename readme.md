@@ -13,5 +13,5 @@ cp ~/commit/.commit-msg .git/hooks/
 
 ## Run Tests
 ~~~
-mocha --compilers coffee:coffee-script/register ./spec
+mocha --reporter=mocha-pride --compilers coffee:coffee-script/register ./spec
 ~~~

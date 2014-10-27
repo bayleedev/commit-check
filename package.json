@@ -13,6 +13,7 @@
     "nlp_compromise": "^0.1.4"
   },
   "devDependencies": {
-    "chai": "^1.9.2"
+    "chai": "^1.9.2",
+    "mocha-pride": "0.0.1"
   }
 }
