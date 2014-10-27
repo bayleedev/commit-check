@@ -11,5 +11,8 @@
   "dependencies": {
     "wordpos": "^0.1.15",
     "nlp_compromise": "^0.1.4"
+  },
+  "devDependencies": {
+    "chai": "^1.9.2"
   }
 }

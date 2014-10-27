@@ -10,3 +10,8 @@
 git clone git@github.com:blainesch/commit-check.git ~/commit
 cp ~/commit/.commit-msg .git/hooks/
 ~~~
+
+## Run Tests
+~~~
+mocha --compilers coffee:coffee-script/register ./spec
+~~~
