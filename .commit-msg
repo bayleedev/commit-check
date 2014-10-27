@@ -1,0 +1,3 @@
+#!/bin/sh
+
+coffee ~/commit/index.coffee "$(head -1 $1)"
